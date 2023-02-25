@@ -1,6 +1,6 @@
 import "./App.css";
 
-import { Home, Items, Pokemon, Pokemons } from "./pages";
+import { Items, Pokemon, Pokemons } from "./pages";
 
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 
